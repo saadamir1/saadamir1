@@ -45,6 +45,11 @@ Welcome to my GitHub! I'm a passionate full-stack developer focused on building 
   <img src="https://github-readme-stats.vercel.app/api?username=saadamir1&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Saad's GitHub stats" />
 </div>
 
+### 🏅 Certifications
+
+[![AWS Cloud Foundations](https://img.shields.io/badge/-AWS%20Cloud%20Foundations-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/8ecb815b-e6c4-47be-8289-1937f8eab7a9/public_url)
+[![AWS Cloud Web Application Builder](https://img.shields.io/badge/-AWS%20Web%20App%20Builder-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/d33a5885-2b6e-4584-b41b-95c382d304a1/public_url)
+
 ### 🏆 Experience Highlights
 
 - **JavaScript Developer** at NxtOf (Jan 2025 - Apr 2025)
