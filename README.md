@@ -53,7 +53,7 @@ Welcome to my GitHub! I'm a passionate full-stack developer focused on building 
 ### 🏆 Experience Highlights
 
 - **JavaScript Developer** at NxtOf (Jan 2025 - Apr 2025)
-  - Working with NestJS, Next.js, MERN stack, GraphQL, PostgreSQL, React Native, and TypeScript
+  - Worked with NestJS, Next.js, MERN stack, GraphQL, PostgreSQL, React Native, and TypeScript
 - **Full Stack Developer Intern** at Futurenostics (Jul 2024 - Sept 2024)
   - Built scalable applications using MERN stack with TypeScript and modern development practices
 - **Teaching Assistant & Lab Demonstrator** at FAST-NUCES (May 2023 - May 2024)
@@ -61,8 +61,8 @@ Welcome to my GitHub! I'm a passionate full-stack developer focused on building 
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saadamir1)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@saadamir1)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Saadamir070@gmail.com)
 
 ---
