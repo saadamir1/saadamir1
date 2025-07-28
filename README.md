@@ -28,6 +28,7 @@ Welcome to my GitHub! I'm a passionate full-stack developer focused on building 
 ### 🌟 Featured Projects
 
 #### 🚀 Full-Stack Applications
+- **[Nestjs-pg-crud](https://github.com/saadamir1/nestjs-pg-crud)** - Full-featured NestJS REST API with PostgreSQL, JWT authentication, RBAC, and TypeORM CRUD
 - **[MeriCloset](https://github.com/saadamir1/mericloset)** - Smart fashion discovery platform with React, Node.js, and collaborative filtering
 - **[Café Management System](https://github.com/saadamir1/BinaryBeans-CafeManagementSystem.NET)** - Desktop application with .NET WinForms and SQL Server
 - **[JotDown](https://github.com/saadamir1/JotDown-client)** - Minimal note-taking app with React frontend and Express API
