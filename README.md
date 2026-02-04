@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate full-stack developer focused on building 
 
 ### 🎯 About Me
 - 💻 Full-Stack Developer specializing in **JavaScript/TypeScript** ecosystem
-- 🎓 Former **Teaching Assistant** at FAST-NUCES, Islamabad
+- 🎓 Former **Lab Demonstrator** at FAST-NUCES, Islamabad
 - 🌱 Always learning and experimenting with new technologies
 - 📫 Reach me at: **Saadamir070@gmail.com**
 
