@@ -1,71 +1,123 @@
 # Hi there, I'm Saad Amir! 👋
 
-## 🚀 Full-Stack Developer | MERN, NestJS, Next.js
+## 🚀 Backend Developer | NestJS, TypeScript, React
 
-Welcome to my GitHub! I'm a passionate full-stack developer focused on building scalable web applications and exploring new technologies.
+Welcome to my GitHub! I'm a Software Engineer with 1+ year of experience building scalable backend APIs and production web applications. Currently working at **MicroAgility** as an Associate Backend Developer.
 
 ### 🎯 About Me
-- 💻 Full-Stack Developer specializing in **JavaScript/TypeScript** ecosystem
-- 🎓 Former **Lab Demonstrator** at FAST-NUCES, Islamabad
-- 🌱 Always learning and experimenting with new technologies
+
+- 💻 Backend specialist focused on **NestJS, PostgreSQL, TypeScript** with full-stack capabilities
+- 🏢 Building enterprise HR/LMS platforms serving 90+ employees across 10+ departments
+- 🔐 Experienced in implementing secure authentication systems (JWT, WebAuthn/FIDO2)
+- 🎓 Former **Teaching Assistant & Lab Demonstrator** at FAST-NUCES, Islamabad
+- 🌱 Passionate about clean architecture, scalable systems, and modern DevOps practices
 - 📫 Reach me at: **Saadamir070@gmail.com**
 
 ### 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+**Backend & APIs**  
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+**Databases**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![TypeORM](https://img.shields.io/badge/-TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**DevOps & Tools**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+### 💼 Professional Experience
+
+#### 🏢 Associate Backend Developer @ MicroAgility *(June 2025 - Present)*
+- Developing **APAC**, an enterprise HR/LMS platform with NestJS, MongoDB, and TypeScript
+- Built authentication workflows, multi-stage approval systems, and leave management modules
+- Implemented document uploads with Google Cloud Storage and paginated REST APIs
+- Applied structured logging, centralized error handling, and input validation
+
+#### 💻 JavaScript Developer @ NxtOf *(January 2025 - April 2025)*
+- Developed full-stack features for **PropNerd** (£500K+ real estate tokenization platform)
+- Implemented passwordless authentication using **WebAuthn (FIDO2)** with biometric login
+- Built and maintained APIs with NestJS, GraphQL, and PostgreSQL
+- Worked with React, React Native, and TypeScript for cross-platform development
+
+#### 🚀 Full Stack Developer Intern @ Futurenostics *(July 2024 - September 2024)*
+- Built gaming hub and e-commerce projects using MERN stack
+- Deployed applications using Docker, Kubernetes, and GitHub Actions CI/CD
+- Implemented JWT authentication, CRUD operations, and RESTful APIs
 
 ### 🌟 Featured Projects
 
-#### 🚀 Full-Stack Applications
-- **[Nestjs-pg-crud](https://github.com/saadamir1/nestjs-pg-crud)** - Full-featured NestJS REST API with PostgreSQL, JWT authentication, RBAC, and TypeORM CRUD
-- **[MeriCloset](https://github.com/saadamir1/mericloset)** - Smart fashion discovery platform with React, Node.js, and collaborative filtering
-- **[Café Management System](https://github.com/saadamir1/BinaryBeans-CafeManagementSystem.NET)** - Desktop application with .NET WinForms and SQL Server
-- **[JotDown](https://github.com/saadamir1/JotDown-client)** - Minimal note-taking app with React frontend and Express API
+#### 🔐 Multi-Stage SaaS Backend
+**Tech:** NestJS, PostgreSQL, TypeORM, GraphQL, Socket.IO, Cloudinary, Winston  
+- Production-grade REST API with JWT authentication (access + refresh tokens)
+- Role-based access control (RBAC), email verification, and password reset
+- GraphQL integration with Apollo Server for flexible client queries
+- Real-time chat, notifications, and event broadcasting with Socket.IO
+- Multi-tenant SaaS architecture with workspace-level data isolation
+- 90%+ unit/E2E test coverage deployed on Render
 
-#### 🎓 Learning & Exploration Projects
-- **[Multimodal RAG System](https://github.com/saadamir1/multimodal-rag-system)** - Document processing system with multiple reasoning strategies
-- **[Hybrid Consensus Chain](https://github.com/saadamir1/hybrid-consensus-chain)** - CLI blockchain implementation exploring consensus algorithms
-- **[English-Urdu Neural Translation](https://github.com/saadamir1/english-urdu-neural-translation)** - Machine translation system using Transformer models
-- **[VAE vs GAN Comparison](https://github.com/saadamir1/vae-gan-comparison)** - Comprehensive comparison of generative models on CIFAR-10
-- **[Raft Consensus KV Store](https://github.com/saadamir1/raft-consensus-kv)** - Distributed key-value store using Raft consensus algorithm
+**[View Repository →](https://github.com/saadamir1/nestjs-multitenant-foundation)**
+
+#### 👗 Fashion Recommendation Platform - MeriCloset
+**Tech:** MERN Stack, TypeScript, Stripe, Google Gemini, BeautifulSoup  
+- AI-powered platform with collaborative filtering and Gemini chatbot
+- Web scraping for product catalog (500+ products)
+- Role-based portals (user, brand, admin) with Stripe payments
+- Product comparison, wishlist, and JWT authentication
+
+**[View Repository →](https://github.com/saadamir1/mericloset)**
+
+#### 🔗 Other Notable Projects
+- **[Multimodal RAG System](https://github.com/saadamir1/multimodal-rag-system)** - Document processing with multiple reasoning strategies
+- **[Hybrid Consensus Chain](https://github.com/saadamir1/hybrid-consensus-chain)** - CLI blockchain exploring consensus algorithms
+- **[Raft Consensus KV Store](https://github.com/saadamir1/raft-consensus-kv)** - Distributed key-value store using Raft
+- **[English-Urdu Neural Translation](https://github.com/saadamir1/english-urdu-neural-translation)** - Machine translation with Transformers
+- **[JotDown](https://github.com/saadamir1/JotDown-client)** - Minimal note-taking app with React and Express
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadamir1&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Saad's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadamir1&theme=radical&hide_border=true" alt="GitHub Streak">
 </div>
 
 ### 🏅 Certifications
 
+[![Meta Backend Developer](https://img.shields.io/badge/-Meta%20Backend%20Developer-0668E1?style=flat-square&logo=meta&logoColor=white)](https://www.coursera.org/professional-certificates/meta-back-end-developer)
 [![AWS Cloud Foundations](https://img.shields.io/badge/-AWS%20Cloud%20Foundations-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/8ecb815b-e6c4-47be-8289-1937f8eab7a9/public_url)
 [![AWS Cloud Web Application Builder](https://img.shields.io/badge/-AWS%20Web%20App%20Builder-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/d33a5885-2b6e-4584-b41b-95c382d304a1/public_url)
 
-### 🏆 Experience Highlights
+### 🎓 Education
 
-- **JavaScript Developer** at NxtOf (Jan 2025 - Apr 2025)
-  - Worked with NestJS, Next.js, MERN stack, GraphQL, PostgreSQL, React Native, and TypeScript
-- **Full Stack Developer Intern** at Futurenostics (Jul 2024 - Sept 2024)
-  - Built scalable applications using MERN stack with TypeScript and modern development practices
-- **Teaching Assistant & Lab Demonstrator** at FAST-NUCES (May 2023 - May 2024)
-  - Taught OOP, Software Design, and Data Structures to university students
+**Bachelor of Computer Science**  
+FAST-NUCES, Islamabad | 2025
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saadamir1)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saadamir)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@saadamir1)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Saadamir070@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/saadamir1)
 
 ---
 
-⭐️ From [saadamir1](https://github.com/saadamir1)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=saadamir1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views">
+</div>
+
+<div align="center">
+  ⭐️ From <a href="https://github.com/saadamir1">saadamir1</a> | 💼 Open to Backend Development Opportunities
+</div>
